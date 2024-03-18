@@ -24,8 +24,6 @@ function App() {
         <h1 className="text-3xl font-bold leading-7  text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight">
           Clothing Catalog
         </h1>
-      {/* </div>
-      <div className="min-w-0 flex-1"> */}
         <Gallery items={testData} />
       </div>
     </div>
